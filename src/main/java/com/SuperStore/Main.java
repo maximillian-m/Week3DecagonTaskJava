@@ -54,35 +54,9 @@ public class Main {
         cashier1.addToCustomerList(customer1);
         cashier1.addToCustomerList(customer3);
         cashier1.checkOutMethod(false);
-//        cashierServ.customerCheck(customer1);
-//        cashierServ.sellProducts(customer1);
 
-//        System.out.println(customer1.getWallet());// customer checks wallet
 
         System.out.println("=====================================================");
-//        System.out.println();
-//        System.out.println();
-//
-//
-//
-//        System.out.println();
-//        System.out.println();
 
-        //customer buys product when wallet amount is enough
-//
-//        System.out.println("=====================================================");
-//        System.out.println();
-//        System.out.println();
-//
-//        System.out.println("=====================================================");
-//        System.out.println();
-//        System.out.println();
-
-        //manager gets the store account to check if it's update
-//        System.out.println(manager.getStoreCash());
-//        System.out.println(customer1.getWallet());
-//
-//        System.out.println(productList.getProducts());
-//        System.out.println(customer1.getCart());
     }
 }
